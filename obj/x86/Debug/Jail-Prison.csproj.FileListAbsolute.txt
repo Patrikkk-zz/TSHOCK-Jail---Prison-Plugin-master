@@ -1,0 +1,24 @@
+C:\Users\DarkunderdoG\Desktop\tshock\TSHOCK-Jail---Prison-Plugin\bin\Debug\Jail-Prison.dll
+C:\Users\DarkunderdoG\Desktop\tshock\TSHOCK-Jail---Prison-Plugin\bin\Debug\Jail-Prison.pdb
+C:\Users\DarkunderdoG\Desktop\tshock\TSHOCK-Jail---Prison-Plugin\bin\Debug\TerrariaServer.exe
+C:\Users\DarkunderdoG\Desktop\tshock\TSHOCK-Jail---Prison-Plugin\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\DarkunderdoG\Desktop\tshock\TSHOCK-Jail---Prison-Plugin\obj\x86\Debug\Jail-Prison.dll
+C:\Users\DarkunderdoG\Desktop\tshock\TSHOCK-Jail---Prison-Plugin\obj\x86\Debug\Jail-Prison.pdb
+C:\Users\DarkunderdoG\Desktop\tshock\TSHOCK-Jail---Prison-Plugin\bin\Debug\TShockAPI.dll
+C:\Users\DarkunderdoG\Desktop\tshock\TSHOCK-Jail---Prison-Plugin\bin\Debug\HttpServer.dll
+C:\Users\DarkunderdoG\Desktop\tshock\TSHOCK-Jail---Prison-Plugin\bin\Debug\Mono.Data.Sqlite.dll
+C:\Users\DarkunderdoG\Desktop\tshock\TSHOCK-Jail---Prison-Plugin\bin\Debug\TShockAPI.pdb
+C:\Users\DarkunderdoG\Desktop\tshock\TSHOCK-Jail---Prison-Plugin\bin\Debug\TShockAPI.xml
+C:\Users\DarkunderdoG\Desktop\tshock\TSHOCK-Jail---Prison-Plugin\bin\Debug\HttpServer.pdb
+C:\Users\DarkunderdoG\Desktop\tshock\TSHOCK-Jail---Prison-Plugin\bin\Debug\HttpServer.xml
+C:\Users\DarkunderdoG\Desktop\tshock\TSHOCK-Jail---Prison-Plugin\bin\Debug\LuaInterface.dll
+C:\Users\Patrik\Downloads\Compressed\TSHOCK-Jail---Prison-Plugin-master\TSHOCK-Jail---Prison-Plugin-master\obj\x86\Debug\Jail-Prison.dll
+C:\Users\Patrik\Downloads\Compressed\TSHOCK-Jail---Prison-Plugin-master\TSHOCK-Jail---Prison-Plugin-master\obj\x86\Debug\Jail-Prison.pdb
+C:\Users\Patrik\Downloads\Compressed\TSHOCK-Jail---Prison-Plugin-master\TSHOCK-Jail---Prison-Plugin-master\Jail-Prison.dll
+C:\Users\Patrik\Downloads\Compressed\TSHOCK-Jail---Prison-Plugin-master\TSHOCK-Jail---Prison-Plugin-master\Jail-Prison.pdb
+C:\Users\Patrik\Downloads\Compressed\TSHOCK-Jail---Prison-Plugin-master\TSHOCK-Jail---Prison-Plugin-master\bin\Debug\Jail-Prison.dll
+C:\Users\Patrik\Downloads\Compressed\TSHOCK-Jail---Prison-Plugin-master\TSHOCK-Jail---Prison-Plugin-master\bin\Debug\Jail-Prison.pdb
+C:\Users\Patrik\Dropbox\TshockCoding\TSHOCK-Jail---Prison-Plugin-master 4.2\TSHOCK-Jail---Prison-Plugin-master\DLL\Jail-Prison.dll
+C:\Users\Patrik\Dropbox\TshockCoding\TSHOCK-Jail---Prison-Plugin-master 4.2\TSHOCK-Jail---Prison-Plugin-master\DLL\Jail-Prison.pdb
+C:\Users\Patrik\Dropbox\TshockCoding\TSHOCK-Jail---Prison-Plugin-master 4.2\TSHOCK-Jail---Prison-Plugin-master\obj\x86\Debug\Jail-Prison.dll
+C:\Users\Patrik\Dropbox\TshockCoding\TSHOCK-Jail---Prison-Plugin-master 4.2\TSHOCK-Jail---Prison-Plugin-master\obj\x86\Debug\Jail-Prison.pdb
